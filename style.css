@@ -1,0 +1,17 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+a {
+    color: blue;
+}
+
+.pienas1,
+.pienas2 {
+    color: yellow;
+}
+
+.last {
+    color: green;
+}
